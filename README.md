@@ -1,3 +1,5 @@
 #UPDATES ASSIGNMENT 2
 
 In an attempt to improve my score from the original attempt I have created a new VBS script and new screenshots for 2018, 2019, and 2020. I have moved the old files to a branch in the main repositoriy for Assignment 2. Eveything in the main branch is the 2nd attempt submission.
+
+Summary - code is set up to put headers in specific cells at a specific font, variables created to create and hold the name of worksheets, name of tickers, and yearly and percentage changes, initial voume set at zero, opening and closing prices, and where the final price is. Iterates through sheets to perform the calculations, set conditional formatting with green for positive and red for negative, create values for all ticker symbols and apply yearly change, percent change, total volume, and apply conditional formatting. Then creates additional table to determine the greatest increase in terms of percent, greatest decrease, and greatest total volume. Then replicates to the other spreadsheets within the workbook.
